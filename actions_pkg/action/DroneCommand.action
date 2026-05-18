@@ -1,0 +1,5 @@
+string goal
+---
+bool result
+---
+string feedback
