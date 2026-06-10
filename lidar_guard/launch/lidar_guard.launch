@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="lidar_guard"
+        type="lidar_guard_node.py"
+        name="lidar_guard_node"
+        output="screen" />
+</launch>
